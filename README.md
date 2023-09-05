@@ -6,3 +6,9 @@
 
     git clone https://github.com/6430300013/WEATHER-NOW.git
     cd WEATHER-NOW
+
+#  วิธีการรัน
+
+    - นำไฟล์ index.html เปิดด้วย VScode
+    - ทำการรันโค้ด
+    
